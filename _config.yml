@@ -7,6 +7,7 @@
 
 # Site settings
 title: Thought of the day
+sub_title: The inane ramblings of a software engineer
 description: > # this means to ignore newlines until "baseurl:"
   A little blog with my thoughts of the day. Some short, some long. Some about
   tech and web development, some about history, most just inane ramblings.
